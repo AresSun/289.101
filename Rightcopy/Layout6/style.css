@@ -1,0 +1,70 @@
+div{
+    outline:4px solid black;
+}
+
+.container{
+    width:920px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.header{
+    background:blue;
+    width:920px;
+    height:200px;
+}
+
+.content{
+    background-color:green;
+    height:100px;
+    width:920px;
+}
+
+.red{
+    background-color:red;
+    height:500px;
+    width:920px;
+    float:left;
+}
+
+.yellowbox{
+    background-color:yellow;
+    height:125px;
+    width:125px;
+    float:left;
+    margin-top:50px;
+    margin-left:84px;
+}
+
+.yellowbox1{
+    background-color:yellow;
+    height:280px;
+    width:334px;
+    float:left;
+    margin-top:30px;
+    margin-left:84px;
+}
+
+.yel{
+    background-color:yellow;
+    height:120px;
+    width:120px;
+    float:right;
+    margin-top:40px;
+    margin-right:40px;
+}
+
+.red1{
+    background-color:red;
+    height:500px;
+    width:600px;
+    float:left;
+}
+
+.green1{
+    width:920px;
+    background-color:greenyellow;
+    height:200px;
+    float:left;
+}
+
